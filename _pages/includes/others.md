@@ -1,17 +1,7 @@
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
- -->
-
+# ⭐ Services
+- **Program Committee / Reviewer**: ACM TKDD, WWW 2024, DASFAA 2024
+- **Secondary Reviewer**: CIKM 2023-24, WSDM 2024, IJCAI 2023, KDD 2025, AAAI 2023-24, SIGIR 2023-25
 
 # 💻 Internships
-- *2021.05 - 2021.11*, Ant Group, Beijing. Mentor: [Qishen Zhang]
-- *2020.10 - 2021.05*, Boss Zhipin, Beijing. Mentor: [Yang Song & Tao Zhang]
-
-
-# ⭐ Services
-- *2024*, Program Committee, ACL, EACL, CIKM.
-- *2023*, Program Committee, WWW, SIGIR, EACL, SDM, NLPCC.
-- *2022*, Program Committee, KDD, WWW, SIGIR, NLPCC.
+- *2024.05 - 2024.08*, **Baidu Research**, focusing on generative recsys
+- *2024.09 - 2025.02*, **Kuaishou Technology**, focusing on live-streaming rescys

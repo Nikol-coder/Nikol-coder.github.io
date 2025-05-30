@@ -1,7 +1,5 @@
-# 🎖 Awards
-- *2022* Outstanding Graduate, Beijing
-- *2022* Outstanding Graduate of Peking University, Peking University
-- *2020-2021* Excellence in Learning Award, Peking University
-- *2020-2021* Academic Excellence Scholarship, Peking University
-- *2019* Outstanding Graduates, Xidian University
-- *2016-2018* National Scholarship, Xidian University
+# 🎖 Honors and Awards
+- *2025.05* Pacemaker to Merit Student (Top 1%) of University of Chinese Academy of Sciences
+- *2024.03* Merit Student of University of Chinese Academy of Sciences
+- *2019.09* National Encouragement Scholarship
+- *2018.09* Merit Student of University of International Relations
