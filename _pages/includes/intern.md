@@ -1,3 +1,5 @@
 # 💻 Internships
-- *2024.05 - 2024.08*, **Baidu Research**, focusing on generative recsys
-- *2024.09 - 2025.02*, **Kuaishou Technology**, focusing on live-streaming recsys
+- **Baidu Research**, focusing on Generative RecSys
+- **Kuaishou Technology**, focusing on Live-Streaming RecSys
+- **ByteDance Inc**, focusing on Multi-Modal LLMs
+- **ByteDance Inc (TikTok)**, focusing on Live-Streaming RecSys
