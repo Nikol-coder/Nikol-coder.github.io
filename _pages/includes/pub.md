@@ -1,16 +1,11 @@
-
 # 📝 Publications 
 
-- [Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation](https://arxiv.org/pdf/2501.11671). **Xiaodong Li**, Hengzhu Tang, Jiawei Sheng, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu. *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*.
+- MAKAR: a Multi-Agent framework based Knowledge-Augmented Reasoning for Grounded Multimodal Named Entity Recognition. **Xinkui Lin**, yuhui zhang, Yongxiu Xu, Kun Huang, Hongzhang Mu, Yubin Wang, Gaopeng Gou, Li Qian, Li Peng, Wei Liu, Jian Luan, Hongbo Xu. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
 
-- [Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e092/26FZCjdZdlK). **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu. *The 41st IEEE International Conference on Data Engineering (ICDE 2025)*.
+- [REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts](https://dl.acm.org/doi/10.1145/3746027.3754868). **Xinkui Lin**, Yongxiu Xu, Minghao Tang, zhangshilong zhangshilong, Hongbo Xu, Hao Xu, Yubin Wang. *Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)*.
 
-- [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process](https://dl.acm.org/doi/pdf/10.1145/3616855.3635794). **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Wenyuan Zhang, Quangang Li, Tingwen Liu. *The 17th ACM International Conference on Web Search and Data Mining (WSDM 2024)*.
+- An Adaptive Semantic-Aware Fusion Method for Multimodal Entity Linking. Hao Xu, Yongxiu Xu, **Xinkui Lin**, Hongbo Xu, Yubin Wang, Gaopeng Gou. *The 14th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2025)*.
 
-- [FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation](https://arxiv.org/pdf/2502.09375). **Xiaodong Li**, Ruochen Yang, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, Jiawei Sheng, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu. *arXiv preprint arXiv:2502.09375*.
+- [RDA: Regularized Domain Adaptation for Multimedia Event Extraction](https://link.springer.com/chapter/10.1007/978-981-96-9884-4_26). Yuhui Zhang, Yongxiu Xu, Minghao Tang, **Xinkui Lin**, Yubin Wang, Hongbo xu, Gaopeng Gou. *21st International Conference on Intelligent Computing (ICIC 2025)*.
 
-- [SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents](https://arxiv.org/pdf/2502.15538). Wenyuan Zhang, Tianyun Liu, Mengxiao Song, **Xiaodong Li**, Tingwen Liu. *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 Main)*.
-
-- [Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://arxiv.org/pdf/2505.23014). Juwei Yue, Haikuo Li, Jiawei Sheng, **Xiaodong Li**, Taoyu Su, Tingwen Liu, Li Guo. *The Forty-Second International Conference on Machine Learning (ICML 2025)*.
-
-- [Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective](https://arxiv.org/pdf/2504.19458). Taoyu Su, Jiawei Sheng, Duohe Ma, **Xiaodong Li**, Juwei Yue, Mengxiao Song, Yingkai Tang, Tingwen Liu. *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)*.
+- [EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection](https://doi.org/10.1145/3731715.3733321). Haochen Zhao, Yongxiu Xu, **Xinkui Lin**, Jiarui Lu, Hongbo Xu, and Yubin Wang. 2025. *Proceedings of the 2025 International Conference on Multimedia Retrieval (ICMR '25)*.
