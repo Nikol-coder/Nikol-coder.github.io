@@ -1,7 +1,8 @@
 # 🔥 News
-- *2025.05*: 🎉 Our paper "SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents" has been accepted by ACL 2025 (Main)!
-- *2025.05*: 🎉 Our paper "Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations" has been accepted by ICML 2025!
-- *2025.04*: 🎉 Our paper "Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective" has been accepted by SIGIR 2025!
-- *2025.03*: 🎉 Our paper "Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users" has been accepted by ICDE 2025!
-- *2024.11*: 🎉 Our paper "Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation" has been accepted by KDD 2025!
-- *2023.10*: 🎉 Our paper "CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process" has been accepted by WSDM 2024!
+
+- *2025.08*: 🎉 Our paper "MAKAR: a Multi-Agent framework based Knowledge-Augmented Reasoning for Grounded Multimodal Named Entity Recognition" has been accepted by EMNLP 2025!
+- *2025.07*: 🎉 Our paper "REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts" has been accepted by ACM MM 2025!
+- *2025.07*: 🎉 Our paper "An Adaptive Semantic-Aware Fusion Method for Multimodal Entity Linking" has been accepted by NLPCC 2025!
+- *2025.06*: 🎉 Our paper "RDA: Regularized Domain Adaptation for Multimedia Event Extraction" has been accepted by ICIC 2025!
+- *2025.04*: 🎉 Our paper "EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection" has been accepted by ICMR 2024!
+
