@@ -1,4 +1,5 @@
 # 📖 Educations
 
-- *2021.09 - Present*, Ph.D. Candidate, Chinese Academy of Sciences
-- *2017.09 - 2021.06*, Undergraduate, University of International Relations
+- *2023.09 - Present*, Ph.D. Candidate, Cyberspace Security, Chinese Academy of Sciences
+- *2019.09 - 2023.06*, Undergraduate, Computer Science and Technology, University of Electronic Science and Technology of China
+
