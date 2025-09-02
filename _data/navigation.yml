@@ -1,44 +1,24 @@
 # main links links
-# main:
-#   - title: "About Me"
-#     url: "/#about-me"
-
-#   - title: "News"
-#     url: "/#-news"
-
-#   - title: "Publications"
-#     url: "/#-publications"
-
-#   - title: "Honors and Awards"
-#     url: "/#-honors-and-awards"
-
-#   - title: "Educations"
-#     url: "/#-educations"
-
-#   - title: "Services"
-#     url: "/#-services"
-
-#   - title: "Internships"
-#     url: "/#-internships"
-main:
+master:
   - title: "About Me"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Services"
-    url: "/#services"
+    url: "/#-services"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "/#-internships"
+
 
