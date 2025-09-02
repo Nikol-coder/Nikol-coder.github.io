@@ -22,22 +22,23 @@
 #     url: "/#-internships"
 main:
   - title: "About Me"
-    url: "/#"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/#"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#"
+    url: "/#honors-and-awards"
 
   - title: "Educations"
-    url: "/#"
-  
+    url: "/#educations"
+
   - title: "Services"
-    url: "/#"
+    url: "/#services"
 
   - title: "Internships"
-    url: "/#"
+    url: "/#internships"
+
